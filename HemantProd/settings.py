@@ -97,8 +97,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db (1).sqlite3'),
-        #'USER': 'kshirsagarhemant',                      # Not used with sqlite3.
-        #'PASSWORD': 'sinhagad12',                  # Not used with sqlite3.
+        #'USER': '',                      # Not used with sqlite3.
+        #'PASSWORD': '',                  # Not used with sqlite3.
         #'HOST': 'kshirsagarhemant.mysql.pythonanywhere-services.com',                      # Set to empty string for localhost. Not used with sqlite3.
         #'PORT': '',                      # Set to empty string for default. Not used with sqlite3.
     }
